@@ -6,4 +6,6 @@ pipeline {
         git 'https://github.com/Ozone183/website.git'
       }
     }
+  }
+}
     
